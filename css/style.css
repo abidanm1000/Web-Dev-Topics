@@ -1,6 +1,6 @@
 body{
     font-family: 'Oswald', sans-serif;
-    background-color: khaki;
+    background-color: wheat;
     color: darkcyan;
     font-size: 18px;
     line-height: 1.9em;
@@ -16,7 +16,7 @@ body h3{
 }
 
 #navbar{
-    color: khaki;
+    color: wheat;
     background-color: maroon;
 }
 
@@ -50,12 +50,11 @@ hr{
 }
 
 img{
-    width: 180px;
-    height: 235px;
+    width: 155px;
+    height: 200px;
     float: left;
-    border: dotted;
-    border-radius: 80px;
-    margin-top: 50px;
-    margin-bottom: 60px;
-    margin-left: 13%;
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-right: 20px;
+    box-sizing: border-box;
 }
