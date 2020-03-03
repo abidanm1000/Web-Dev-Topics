@@ -430,7 +430,7 @@ header .navbar.navbar-light .nav-link.active {
 .school-instructors.text-dark .feature .icon > span:before {
   font-size: 50px;
   margin-left: 0;
-  color: #007bff;
+  color: lightseagreen;
 }
 
 .img-bg {
@@ -1286,7 +1286,7 @@ blockquote p {
 }
 
 .site-footer a {
-  color: #fff;
+  color: lightseagreen
 }
 
 .site-footer a:hover {
@@ -1294,7 +1294,7 @@ blockquote p {
 }
 
 .site-footer h3 {
-  color: #fff;
+  color: lightseagreen;
   font-size: 16px;
   text-transform: uppercase;
   letter-spacing: .2em;
