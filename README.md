@@ -1,2 +1,1 @@
-# abidanm1000.github.io
-Github Pages
+You can download and unzip to view this project
